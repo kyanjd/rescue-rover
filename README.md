@@ -1,5 +1,8 @@
-# Rescue-Rover - An autonomous, colour-detecting, route-retracing mine navigation search and rescue buggy hardware and software
+# Rescue-Rover - An autonomous, colour-detecting, route-retracing mine navigation search and rescue buggy
 **Note:** This repository is a clone of the original repository, with all hardware-related files (e.g., Makefiles, MPLab project files) removed along with the commit history.
+
+**Demo:** [![Demo](https://img.youtube.com/vi/sMWcg_Hr5lM/maxresdefault.jpg)](https://youtube.com/shorts/mEVi8ZEjE7g)
+
 
 ## Contents
 1. Objectives
